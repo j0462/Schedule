@@ -10,7 +10,8 @@
 
 ## Use Case Diagram
 
-![일정관리 drawio (1)](https://github.com/j0462/Schedule/assets/70842040/82374e43-884b-43f5-9f6f-e00089231f89)
+![일정관리 drawio](https://github.com/j0462/Schedule/assets/70842040/79a3e460-9f4f-4ffd-92b8-35bb6caab102)
+
 
 
 ---

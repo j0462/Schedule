@@ -17,7 +17,8 @@
 
 ## ERD
 
-![사진1](https://github.com/gloz0315/scheduleProject/assets/80665963/8cd7c0ef-5fc8-48ba-9052-22c61ba40233)
+![erd](https://github.com/j0462/Schedule/assets/70842040/f60172c4-4594-44bd-9675-6f195223b13e)
+
 
 ---
 

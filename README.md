@@ -18,7 +18,8 @@
 
 ## ERD
 
-![erd](https://github.com/j0462/Schedule/assets/70842040/f60172c4-4594-44bd-9675-6f195223b13e)
+![image](https://github.com/j0462/Schedule/assets/70842040/9fe441ad-7e36-4549-9ca3-e40e41cddaf4)
+
 
 
 ---
